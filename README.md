@@ -32,13 +32,13 @@ Cada conta é representada por um objeto da classe `Conta`, contendo:
 
 As contas são armazenadas em um dicionário:
 
-```python
+
 contas = {
     0: Conta(...),
     1: Conta(...),
     2: Conta(...)
 }
-```
+
 
 ### Como executar
 
@@ -46,21 +46,20 @@ contas = {
 2. Baixe ou clone este repositório
 3. Execute o arquivo:
 
-```bash
+
 python contabancaria.py
-```
+
 
 ### Como usar
 
 1. Digite o número da conta (ex: `0`, `1`, `2`)
 2. Escolha uma opção do menu:
 
-```
 1 = Depositar
 2 = Mostrar saldo
 3 = Sacar
 4 = Sair
-```
+
 
 ### Validações implementadas
 
@@ -80,5 +79,5 @@ python contabancaria.py
 
 Este projeto foi desenvolvido com fins educacionais, com o objetivo de praticar lógica de programação e conceitos fundamentais de POO em Python.
 
-Desenvolvido por [Dênis Bruno]
+Desenvolvido por Dênis Bruno
 
